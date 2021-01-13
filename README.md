@@ -2,7 +2,7 @@
 
 ## Instructions
 
-You can copy the json from settings.json file and paste it into your VS Code settings.json file. Also you will find all the plugins that I use.
+You can copy the json from text files and paste it into your VS Code text file.
 
 ### TOTAL TEXT FILES
 
