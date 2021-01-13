@@ -2,7 +2,7 @@
 
 ## Instructions
 
-You can copy the json from text files and paste it into your VS Code text file.
+You can copy from text files and paste it into your VS Code.
 
 ### TOTAL TEXT FILES
 
@@ -14,4 +14,4 @@ You can copy the json from text files and paste it into your VS Code text file.
 
 ## My Facebook Links
 
-My [Facebook](https://www.facebook.com/mdgulamquddus)
+My [Facebook](https://www.facebook.com/mdgulamquddus) Page.
