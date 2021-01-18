@@ -2,7 +2,11 @@
 
 ## Instructions
 
+con
+
 You can copy from text files and paste it into your VS Code.
+
+flict
 
 ### TOTAL TEXT FILES
 
